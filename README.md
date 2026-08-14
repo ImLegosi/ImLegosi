@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Legosi 🐺</h1>
 
-<!--
-**ImLegosi/ImLegosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Learning. Building. Experimenting.</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Just a curious developer turning ideas into projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🐺 About me
+
+I'm currently learning development by building things that interest me.
+
+- 🧠 Learning through real projects
+- 🛠️ Experimenting with code, tools and automation
+- 🌱 Improving one project at a time
+- 🌙 Probably coding something I didn't plan to build
+
+---
+
+### ⚡ Currently
+
+```text
+learning   → software development
+building   → personal projects
+exploring  → new technologies
+goal       → make cool and useful things
+```
+
+---
+
+### 🛠️ Tech
+
+I'm still building my stack.
+
+Technologies will appear here as I actually learn and use them in projects.
+
+---
+
+### 📦 Projects
+
+More coming soon.
+
+I prefer shipping real projects over filling this profile with things I haven't built yet.
+
+---
+
+<p align="center">
+  🐺 <i>Stay curious. Keep building.</i>
+</p>
